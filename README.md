@@ -1,2 +1,2 @@
 # HNC-0-optimum
-HNC/0 algorithm 
+The HNC/0 algorithm 
